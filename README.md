@@ -34,5 +34,17 @@ return rates of 2.7% to 3.3%, against 2.2% overall.
 
 ## Screenshots
 
+### Overview
+![Overview](images/Overview.png)
+
+### Map
+![Map](images/Map.png)
+
+### Product Details
+![Product Details](images/Product%20Details.png)
+
+### Customer Details
+![Customer Details](images/Customer%20Details.png)
+
 ## Files
 `AdventureWorks.pbix`
